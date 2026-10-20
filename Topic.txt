@@ -1,0 +1,27 @@
+Chap 1: Docker Fundamentals 
+- What is Docker?
+- Docker Architecture
+- Virtual Machine VS Docker Container
+- Docker Engine
+- Images vs Containers
+- Docker Hub
+- Docker Installation
+- Basic Docker CLI Commands
+ 
+Chap 2: Docker Images & Dockerfile
+- How ocker Image works
+- Docker Image Layers
+- Dockerfile 
+- Dockerfile-এর গুরুত্বপূর্ণ Instructions
+- FROM ও Base Image
+- WORKDIR
+- COPY ও ADD
+- RUN
+- ENV ও ARG
+- EXPOSE
+- CMD ও ENTRYPOINT
+- .dockerignore
+- Docker Image Build করা
+- Image Tags ও Versioning
+- Image Optimization Basics
+- Practical Project: Node.js Backend Dockerize 
