@@ -1,4 +1,4 @@
-Chap 1: Docker Fundamentals 
+✅ Chap 1: Docker Fundamentals 
 - What is Docker?
 - Docker Architecture
 - Virtual Machine VS Docker Container
@@ -8,20 +8,34 @@ Chap 1: Docker Fundamentals
 - Docker Installation
 - Basic Docker CLI Commands
  
-Chap 2: Docker Images & Dockerfile
+✅ Chap 2: Docker Images & Dockerfile
 - How ocker Image works
 - Docker Image Layers
 - Dockerfile 
-- Dockerfile-এর গুরুত্বপূর্ণ Instructions
-- FROM ও Base Image
+- Dockerfile important Instructions
+- FROM , Base Image
 - WORKDIR
-- COPY ও ADD
+- COPY , ADD
 - RUN
-- ENV ও ARG
+- ENV , ARG
 - EXPOSE
-- CMD ও ENTRYPOINT
+- CMD , ENTRYPOINT
 - .dockerignore
-- Docker Image Build করা
-- Image Tags ও Versioning
+- Docker Image Build 
+- Image Tags , Versioning
 - Image Optimization Basics
 - Practical Project: Node.js Backend Dockerize 
+
+
+✅ Chap 3 : Docker Containers 
+- Container Lifecycle
+- Container Run 
+- Container List 
+- Container Stop, Start 
+- Container Restart , Remove 
+- Command in Container
+- Container Logs 
+- Container Inspect 
+- Environment Variables 
+- Port Mapping 
+- Container Resource Limits
